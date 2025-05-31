@@ -14,3 +14,10 @@ This project uncovers key trends that influence, subscription growth, user engag
 **3. Trends Over Time: How has Amazon Prime's content library evolved?**
 
 **4. IMDb Ratings and Popularity: What are the highest rated or most popular shows on plateform?**
+
+## Bussiness Objective
+The bussiness objective of this project is to find,
+- Key Trends
+- Subscription Growth
+- User Engagement
+- Content Investment Strategies
